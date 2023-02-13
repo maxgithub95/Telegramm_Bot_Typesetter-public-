@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegramm_Bot_Typesetter", "Telegramm_Bot_Typesetter\Telegramm_Bot_Typesetter.csproj", "{E88ECCAA-4974-44F7-B3C2-2F4A6527EDCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88ECCAA-4974-44F7-B3C2-2F4A6527EDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88ECCAA-4974-44F7-B3C2-2F4A6527EDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88ECCAA-4974-44F7-B3C2-2F4A6527EDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88ECCAA-4974-44F7-B3C2-2F4A6527EDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A3D6D4D-E600-456D-A5BD-52BB8141F7B1}
+	EndGlobalSection
+EndGlobal
